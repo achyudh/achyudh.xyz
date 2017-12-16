@@ -1,0 +1,34 @@
+# Permalinks
+permalink:           achyudhk
+
+# Setup
+title:               Achyudh Ram
+tagline:             Comp. Sci. Researcher and Full-Stack Developer
+url:                 http://achyudh.xyz
+paginate:            1
+baseurl:             ""
+
+# Assets
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Achyudh Ram
+  url:               https://twitter.com/achyudhk
+  email:             achyudhk@live.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/achyudhk
+google_analytics:    UA-107933392-1
+twitter:             achyudhk
+github:              achyudhk
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist

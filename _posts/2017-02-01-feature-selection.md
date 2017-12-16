@@ -1,0 +1,8 @@
+---
+layout: post
+title: FCM Feature Selection
+git: https://github.com/achyudhk/FCM-Feature-Selection
+blog: 0
+---
+
+A novel feature selection technique using cosine similarity scores on the semantic centroids calculated from the normalized term-term correlation factors based on Fuzzy C-Means clustering.
