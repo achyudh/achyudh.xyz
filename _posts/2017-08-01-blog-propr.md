@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Propr - Assess pull request reviewability
-git: https://goo.gl/HUDa72
+git: http://blog.achyudh.xyz/2017-10-20/propr
 blog: 1
 ---
 
