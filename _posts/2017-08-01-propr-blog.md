@@ -5,4 +5,4 @@ git: http://blog.achyudh.xyz/2017-10-20/propr
 blog: 1
 ---
 
-Why did I developed Propr, and how can it help developers improve their pull requests?
+Why did I develop Propr, and how can it help developers improve their pull requests?
