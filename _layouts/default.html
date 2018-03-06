@@ -37,6 +37,17 @@
       </div>
 
       <main>
+          <h2>Publications</h2>
+          {% for post in site.posts %}
+            {% if post.blog == 2 %}
+              <div class="project-post">
+                <h3><a href="{{ post.git }}">{{ post.title }}</a></h3>
+                {{ post.content }}
+              </div>
+            {% endif %}
+          {% endfor %}
+        </main>
+
           <h2>Blog posts</h2>
           {% for post in site.posts %}
             {% if post.blog == 1 %}
