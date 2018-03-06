@@ -5,4 +5,4 @@ git: https://github.com/achyudhk/Sign-Language-Recognition
 blog: 0
 ---
 
-An ensemble classifier for translation of American Sign Language gestures with hard negative mining and non-maximal suppression for localization, using histogram of gradients and local binary patterns as features.
+An ensemble classifier for translation of American Sign Language gestures with hard negative mining and non-maximal suppression for localization.
