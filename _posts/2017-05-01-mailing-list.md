@@ -1,8 +1,8 @@
 ---
 layout: post
 title: DevCAP
-git: https://github.com/achyudhk/Mailing-List-Network-Analyzer
+git: https://github.com/DeveloperCAP
 blog: 0
 ---
 
-An analysis framework for decoding the social structure of developer mailing lists, IRC channels and Slack teams.
+An analysis framework to decode the social structure of developer mailing lists, IRC channels and Slack teams.
