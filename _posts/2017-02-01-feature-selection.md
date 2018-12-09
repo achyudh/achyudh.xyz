@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FCM Feature Selection
+title: FuzzyFS
 git: https://github.com/achyudhk/FCM-Feature-Selection
 blog: 0
 ---
