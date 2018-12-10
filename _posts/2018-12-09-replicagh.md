@@ -5,4 +5,4 @@ git: https://github.com/achyudhk/ReplicaGH
 pub: 0
 ---
 
-Deep learning models for supervised detection of pull request clones on GitHub
+A collection of deep learning models for supervised detection of pull request clones on GitHub

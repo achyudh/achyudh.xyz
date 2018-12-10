@@ -5,4 +5,4 @@ git: https://github.com/DeveloperCAP
 pub: 0
 ---
 
-An analysis framework to decode the social structure of developer mailing lists, IRC channels and Slack teams.
+An analysis framework to decode the social structure of developer mailing lists, IRC channels and Slack teams
