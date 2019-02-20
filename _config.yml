@@ -17,13 +17,13 @@ sass:
 # About/contact
 author:
   name:              Achyudh Ram
-  url:               https://twitter.com/achyudhk
+  url:               https://twitter.com/achyudh
   email:             achyudhk@live.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/achyudhk
+  repo:              https://github.com/achyudh
 google_analytics:    UA-107933392-1
 github:              achyudhk
 
