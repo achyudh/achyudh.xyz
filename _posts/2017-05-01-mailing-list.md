@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DevCAP
-git: https://github.com/DeveloperCAP
+git: https://github.com/dev-cap
 pub: 0
 ---
 

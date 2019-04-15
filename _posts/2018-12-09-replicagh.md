@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ReplicaGH
-git: https://github.com/achyudhk/ReplicaGH
+git: https://github.com/achyudh/replica-gh
 pub: 0
 ---
 
