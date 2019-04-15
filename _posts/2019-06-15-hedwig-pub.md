@@ -5,4 +5,4 @@ git: https://github.com/castorini/hedwig
 pub: 1
 ---
 
-2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+Annual Conference of the North American Chapter of the Association for Computational Linguistics (2019)
