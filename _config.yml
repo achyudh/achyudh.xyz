@@ -3,7 +3,7 @@ permalink:           achyudhk
 
 # Setup
 title:               Achyudh Ram
-tagline:             Comp. Sci. Researcher and Full-Stack Developer
+tagline:             Software Development Engineer
 url:                 http://achyudh.github.io
 paginate:            1
 baseurl:             ""
@@ -25,7 +25,7 @@ version:             1.0.0
 github:
   repo:              https://github.com/achyudh
 google_analytics:    UA-107933392-1
-github:              achyudhk
+github:              achyudh
 
 # Gems
 gems:
