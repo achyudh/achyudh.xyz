@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes a Code Change Easier to Review? An Empirical Investigation on Code Change Reviewability
-git: http://achyudh.xyz/publications/reviewability.pdf
+git: http://achyudh.github.io/publications/reviewability.pdf
 pub: 1
 ---
 
